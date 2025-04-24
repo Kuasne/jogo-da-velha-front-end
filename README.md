@@ -2,7 +2,8 @@
 
 Bem-vindo ao **Jogo da Velha**! 🕹️ Uma implementação simples e divertida do clássico jogo **Tic-Tac-Toe** em **HTML**, **CSS** e **JavaScript**. Você pode jogar contra um amigo (PvP) ou, se preferir, contra a **IA simples**.
 
-![Jogo da Velha]([https://via.placeholder.com/1200x500?text=Jogo+da+Velha+Screenshot](https://prnt.sc/MQ55jgJvx7c4))
+![Jogo da Velha](![image](https://github.com/user-attachments/assets/bed05160-3903-42c8-aaff-8f49513b0208)
+))
 
 ## 🔥 Funcionalidades
 
