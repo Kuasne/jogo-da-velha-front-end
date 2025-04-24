@@ -47,7 +47,7 @@ Se você quiser contribuir para melhorar este projeto, fique à vontade para faz
 📬 Contato
 Se tiver dúvidas ou sugestões, entre em contato:
 
-LinkedIn: [seu-perfil-linkedin](https://www.linkedin.com/in/codewithalmeida/)
+LinkedIn: [Meu Perfil](https://www.linkedin.com/in/codewithalmeida/)
 
 GitHub: @Kuasne
 
